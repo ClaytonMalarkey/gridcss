@@ -6,3 +6,17 @@
 section {
     display:inline-block;
 }
+#grid2 {
+    
+}
+img {
+    align-self: start;
+}
+#grid3 {
+    display:grid;
+    grid-template-columns: 1fr 2fr;
+    justify-self: end;
+}
+#navitems {
+    justify-self: end;
+}
